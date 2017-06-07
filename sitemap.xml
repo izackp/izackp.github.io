@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/_header/</loc>
+    <loc>http://localhost/_header.html</loc>
   </url>
   
   <url>
@@ -11,94 +11,94 @@
   </url>
   
   <url>
-    <loc>http://localhost/appdetail/</loc>
+    <loc>http://localhost/appdetail.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/appliedballistics/details/</loc>
+    <loc>http://localhost/apps/appliedballistics/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/</loc>
+    <loc>http://localhost/apps.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/apps/arcat/details/</loc>
+    <loc>http://localhost/apps/arcat/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/assistfund/details/</loc>
+    <loc>http://localhost/apps/assistfund/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>http://localhost/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/apps/hpm/details/</loc>
+    <loc>http://localhost/apps/hpm/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/kready/details/</loc>
+    <loc>http://localhost/apps/kready/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/librarytrek/details/</loc>
+    <loc>http://localhost/apps/librarytrek/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/meet/details/</loc>
+    <loc>http://localhost/apps/meet/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/atls/details/</loc>
+    <loc>http://localhost/apps/atls/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/list/</loc>
+    <loc>http://localhost/apps/list.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/r3/details/</loc>
+    <loc>http://localhost/apps/r3/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/scout/details/</loc>
+    <loc>http://localhost/apps/scout/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/screendoor/details/</loc>
+    <loc>http://localhost/apps/screendoor/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/sighthound/details/</loc>
+    <loc>http://localhost/apps/sighthound/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/snapshots/details/</loc>
+    <loc>http://localhost/apps/snapshots/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://localhost/tags.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/apps/typesetter/details/</loc>
+    <loc>http://localhost/apps/typesetter/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/wine4me/details/</loc>
+    <loc>http://localhost/apps/wine4me/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/elifeguard/details/</loc>
+    <loc>http://localhost/apps/elifeguard/details.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost/apps/smartchoice/details/</loc>
+    <loc>http://localhost/apps/smartchoice/details.html</loc>
   </url>
   
 </urlset>

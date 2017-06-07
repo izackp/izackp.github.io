@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on Isaac&#39;s Online Portfolio</title>
-    <link>http://localhost/apps/</link>
+    <link>http://localhost/apps.html</link>
     <description>Recent content in Apps on Isaac&#39;s Online Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -15,111 +15,111 @@
     
     <item>
       <title>Applied Ballistics</title>
-      <link>http://localhost/apps/appliedballistics/details/</link>
+      <link>http://localhost/apps/appliedballistics/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/appliedballistics/details/</guid>
+      <guid>http://localhost/apps/appliedballistics/details.html</guid>
       <description>AppliedBallisticsiPhoneiTunes LinkFeaturesBallistic SimulationFormsScreen ShotsProduct DescriptionState of the art ballistic solver for calculating long range rifle trajectories. This solver and the library of ballistic coefficients is provided by Bryan Litz and is the most accurate and complete ballistics app available.
 </description>
     </item>
     
     <item>
       <title>Arcat</title>
-      <link>http://localhost/apps/arcat/details/</link>
+      <link>http://localhost/apps/arcat/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/arcat/details/</guid>
+      <guid>http://localhost/apps/arcat/details.html</guid>
       <description>ArcatAndroid &amp;amp; iPhoneiTunes LinkFeaturesREST APIPDF ViewerImage CachingVideo PlayerRSS FeedScreen ShotsProduct DescriptionThe ARCAT app helps architects, engineers and contractors in the productivity of the design build process, from design to construction to facility management. ARCAT has the most extensive and up to date building product information including libraries for CAD Details, BIM content and specifications.</description>
     </item>
     
     <item>
       <title>AssistFund</title>
-      <link>http://localhost/apps/assistfund/details/</link>
+      <link>http://localhost/apps/assistfund/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/assistfund/details/</guid>
+      <guid>http://localhost/apps/assistfund/details.html</guid>
       <description>AssistFundiPhoneNo Longer AvailableFeaturesEmbedded DatabaseScreen ShotsProduct DescriptionAssistance Fund App offers access to information about prescription drug assistance programs and the medications supported by such programs. Programs are listed for individuals insured by private coverage, government coverage and for persons without insurance coverage. Anyone can use this friendly App to search for available assistance from The Assistance Fund or other nonprofits as well as manufacturer sponsored programs.</description>
     </item>
     
     <item>
       <title>Homeschool Portfolio Maker</title>
-      <link>http://localhost/apps/hpm/details/</link>
+      <link>http://localhost/apps/hpm/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/hpm/details/</guid>
+      <guid>http://localhost/apps/hpm/details.html</guid>
       <description>Homeschool Portfolio MakeriPadiTunes LinkFeaturesiCloud Storage Database Syncronization between Multiple DevicesFormsIn App PurchasesTimed Push Notifications (Alarms)Open Library Book SearchScreen ShotsProduct DescriptionThanks for downloading HPM! We&amp;rsquo;re currently working on fixing some bugs caused by iOS 9. Thanks for your patience. A new version will be available soon! Now you can keep images and videos of your child’s daily homeschool activities in one organized file.</description>
     </item>
     
     <item>
       <title>KReady</title>
-      <link>http://localhost/apps/kready/details/</link>
+      <link>http://localhost/apps/kready/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/kready/details/</guid>
+      <guid>http://localhost/apps/kready/details.html</guid>
       <description>K-ReadyiPad &amp;amp; AndroidNo Longer AvailableCommentsBuilt with Game Maker Studio. I do not recommend this solution for any future products.FeaturesCustom Keyboard9&amp;#43; GamesScreen ShotsProduct DescriptionThe K-Ready app from the Orange County Library System (Orlando, FL) is a game that helps prepare preschoolers for kindergarten. It contains engaging and entertaining games that help preschoolers learn letters, numbers, shapes and colors.</description>
     </item>
     
     <item>
       <title>Library Trek</title>
-      <link>http://localhost/apps/librarytrek/details/</link>
+      <link>http://localhost/apps/librarytrek/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/librarytrek/details/</guid>
+      <guid>http://localhost/apps/librarytrek/details.html</guid>
       <description>Library TrekiPhoneiTunes LinkFeaturesREST APIBarcode ScanningEmbedded DatabaseScreen ShotsProduct DescriptionSearch your favorite library for books, DVDs, and other media. Reserve and hold items for pick-up. See what you already have on loan and renew it if you want to keep it a little longer. Found a great book at your local book store?</description>
     </item>
     
     <item>
       <title>Meet</title>
-      <link>http://localhost/apps/meet/details/</link>
+      <link>http://localhost/apps/meet/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/meet/details/</guid>
+      <guid>http://localhost/apps/meet/details.html</guid>
       <description>MeetiPhoneNo Longer AvailableFeaturesFacebook LoginChatSearch/FilterREST APIEmbedded DatabaseImage CachingPush NotificationsScreen ShotsProduct DescriptionJoin the Meet.com mobile social network. It&amp;rsquo;s not just dating. Instantly meet your friends from Facebook and other social networks. You can even meet new people in your area for dating, networking or just friendship. Meet.com&amp;rsquo;s app is free and easy to use.</description>
     </item>
     
     <item>
       <title>MyATLS</title>
-      <link>http://localhost/apps/atls/details/</link>
+      <link>http://localhost/apps/atls/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/atls/details/</guid>
+      <guid>http://localhost/apps/atls/details.html</guid>
       <description>MyATLSiPhone &amp;amp; iPadiTunes LinkFeaturesFormsVideosVarious CalculatorsLots of Written ContentCustomized UIFavoritingIn App PurchasesScreen ShotsProduct DescriptionThe medical care of trauma patients demands fast thinking and accurate, up-to-date resources. And there is no more reliable resource for trauma information than the American College of Surgeons (ACS). This app was developed alongside their seminal course, Advanced Trauma Life Support (ATLS).</description>
     </item>
     
     <item>
       <title>Published Apps</title>
-      <link>http://localhost/apps/list/</link>
+      <link>http://localhost/apps/list.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/list/</guid>
+      <guid>http://localhost/apps/list.html</guid>
       <description>Published Apps This is a list of Apps that I had significant involvment in ordered from newest to oldest.
 ScreenDoor: Who&amp;#39;s Free to Play?Social App to help parents find kids available to play. SighthoundLive stream and notifications of surveillance software. Homeschool Portfolio MakerCreate a portfolio of homeschool projects to keep notes or share online. Wine4MeA questionnaire that will give you a taste profile and suggest wine to you.</description>
     </item>
     
     <item>
       <title>R3 App</title>
-      <link>http://localhost/apps/r3/details/</link>
+      <link>http://localhost/apps/r3/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/r3/details/</guid>
+      <guid>http://localhost/apps/r3/details.html</guid>
       <description>R3 AppiPhone &amp;amp; iPadiTunes LinkCommentsThis was also not a very fun app because it was initially outsourced to china and they built the ipad version and iphone version with separate code. Nonetheless, you can take a questionnaire and see your results, find nearby shelters, access information and videos, and subscribe to a mailing list on constant contact via OAuth2. More notably the app is localized to be in spanish too, so if your phone is set to espaneol before you download the app the everything will be in spanish.</description>
     </item>
     
     <item>
       <title>Scout</title>
-      <link>http://localhost/apps/scout/details/</link>
+      <link>http://localhost/apps/scout/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/scout/details/</guid>
+      <guid>http://localhost/apps/scout/details.html</guid>
       <description>ScoutiPhoneNo Longer AvailableFeaturesSocial Media SharingFacebook loginSearch/FilterREST APIEmbedded DatabaseImage CachingPush NotificationsHashtagsScreen ShotsProduct DescriptionSCOUT is a dynamic location scouting app with the smoothest and most effective capture, log, and delivery experience on the market. Photo, video, geotagging, and comprehensive notes are just some of the tools in what promises to be the best location scouting tool that you have ever used.</description>
     </item>
     
     <item>
       <title>ScreenDoor</title>
-      <link>http://localhost/apps/screendoor/details/</link>
+      <link>http://localhost/apps/screendoor/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/screendoor/details/</guid>
+      <guid>http://localhost/apps/screendoor/details.html</guid>
       <description>ScreenDoor: Who&amp;#39;s Free to Play?iPhoneiTunes LinkFeaturesFacebook Contact IntegrationRecreated iOS Contacts DisplayREST APIPush NotificationsMixPanel AnalyticsScreen ShotsProduct Description&amp;ldquo;One-click&amp;rdquo; simplicity goes beyond an Amazon cart. Welcome to playdates, 2.0&amp;hellip;
  Kat Gordon, Maternal Instinct  Looking to arrange a playdate today?
 Do your kids want to play with friends right now?</description>
@@ -127,38 +127,38 @@ Do your kids want to play with friends right now?</description>
     
     <item>
       <title>Sighthound</title>
-      <link>http://localhost/apps/sighthound/details/</link>
+      <link>http://localhost/apps/sighthound/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/sighthound/details/</guid>
+      <guid>http://localhost/apps/sighthound/details.html</guid>
       <description>SighthoundiPhone &amp;amp; iPadiTunes LinkFeaturesXMLRPC APIEncrypted Live Video StreamingPush NotificationsScreen ShotsProduct DescriptionGet access to Sighthound Video remotely. Sighthound Video software has been trained to simulate the human brain’s recognition abilities. It doesn’t just detect motion like most other security software - it detects and tracks people. With this app you can view your cameras remotely, be alerted to people who have triggered rules you set, and search through clips of camera activity.</description>
     </item>
     
     <item>
       <title>SnapShots</title>
-      <link>http://localhost/apps/snapshots/details/</link>
+      <link>http://localhost/apps/snapshots/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/snapshots/details/</guid>
+      <guid>http://localhost/apps/snapshots/details.html</guid>
       <description>SnapShots 1.4iPhoneiTunes LinkCommentsThis is probably one of the most prolific apps I&amp;#39;ve been involved in. It was featured on the iTunes store for 2 weeks next to Instagram. Built with love and high standards. The project took around 3 months of work, but then there was a redesign that added about 3 more months. I did most of the front end work, and this was one of the most feature rich apps I&amp;#39;ve worked on.</description>
     </item>
     
     <item>
       <title>TypeSetter</title>
-      <link>http://localhost/apps/typesetter/details/</link>
+      <link>http://localhost/apps/typesetter/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/typesetter/details/</guid>
+      <guid>http://localhost/apps/typesetter/details.html</guid>
       <description>TypeSetteriPhoneNo Longer AvailableFeaturesFontsPhoto &amp;amp; Video EditingSocial Media SharingScreen ShotsProduct DescriptionWith unique filters and exclusive fonts, Typesetter will transform a regular photo into a work of art in just seconds. Send personal messages, clever memes, creative designs, or even professional announcements with coolest typography available on iOS.
 -Choose from a group of stylish filters.</description>
     </item>
     
     <item>
       <title>Wine4Me</title>
-      <link>http://localhost/apps/wine4me/details/</link>
+      <link>http://localhost/apps/wine4me/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/wine4me/details/</guid>
+      <guid>http://localhost/apps/wine4me/details.html</guid>
       <description>Wine4MeiPhoneiTunes LinkFeaturesREST APIOrderingFormsInternal DatabaseScreen ShotsProduct DescriptionReady to find the right wine list for YOU?
 Stop drinking what everyone else says they like, drink what YOU like with Wine4.Me.
 </description>
@@ -166,19 +166,19 @@ Stop drinking what everyone else says they like, drink what YOU like with Wine4.
     
     <item>
       <title>eLifeGuard</title>
-      <link>http://localhost/apps/elifeguard/details/</link>
+      <link>http://localhost/apps/elifeguard/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/elifeguard/details/</guid>
+      <guid>http://localhost/apps/elifeguard/details.html</guid>
       <description>eLifeGuard AppiPhoneNo Longer AvailableCommentsThis is another questionnaire app with a resource locator that uses the GPS system, but I built this one from the ground up. The only thing I didn&amp;#39;t work on was the built-in ads.FeaturesFormsZipCode Based Facility SearchScreen ShotsProduct DescriptionUnder the corporate entity Seminole Behavioral Healthcare, we have developed a unique smart phone application called eLifeGuard.</description>
     </item>
     
     <item>
       <title>smartchoice</title>
-      <link>http://localhost/apps/smartchoice/details/</link>
+      <link>http://localhost/apps/smartchoice/details.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>izackp@gmail.com (Isaac Paul)</author>
-      <guid>http://localhost/apps/smartchoice/details/</guid>
+      <guid>http://localhost/apps/smartchoice/details.html</guid>
       <description>SmartChoice Loan CalculatoriPhoneiTunes LinkCommentsThis is a simply a glorified loan calculator with a news feed, contact section, and a section to see saved results. I built this app from the ground up and its also the first app I ever made. I used SQLite to save the results of the calculation, and you can even share the app through facebook, twitter, and email.</description>
     </item>
     
