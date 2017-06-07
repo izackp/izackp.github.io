@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/appdetail/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/appliedballistics/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/arcat/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/assistfund/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/hpm/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/kready/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/librarytrek/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/meet/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/atls/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/r3/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/scout/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/screendoor/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/sighthound/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/snapshots/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/typesetter/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/wine4me/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/elifeguard/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/apps/smartchoice/details/</loc>
+  </url>
+  
+</urlset>
