@@ -82,6 +82,12 @@ jQuery(document).ready(function() {
         $( this ).parent().parent().children('ul').toggle() ;
         return false;
     });
+	
+	jQuery('.dropdown-only').on('click', function() {
+        $( this ).children('a').children('#sidebar .category-icon').toggleClass("fa-angle-down fa-angle-right") ;
+        $( this ).children('ul').toggle();
+        return false;
+    });
 
     var sidebarStatus = searchStatus = 'open';
 
