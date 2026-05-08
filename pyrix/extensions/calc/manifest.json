@@ -1,0 +1,11 @@
+{
+  "id": "pyxis.calc",
+  "name": "LaTeX Calculator",
+  "version": "1.0.0",
+  "type": "ui",
+  "description": "",
+  "author": "Pyxis Team",
+  "defaultEnabled": false,
+  "entry": "index.js",
+  "readme": "# LaTeX Calculator\n\n\n\n---\n\n## 概要\n\nこの拡張機能は Pyxis プラットフォーム上で動作するカスタム機能を提供します。\n\n## Template choices (作成時の選択)\n\n- Extension ID: `calc`\n- Name: `LaTeX Calculator`\n- Description: ``\n- Author: `Pyxis Team`\n- Extension type: `ui`\n- Component type: `sidebar`\n- Uses React: `yes`\n- File extension: `tsx`\n- Component name: `Calc`\n- Tags: `(none)`\n- PNPM support created: `yes`\n- Created at: `2025-11-19T15:10:51.558Z`\n\n## セットアップ手順\n> npmライブラリを使う場合で、Reactのみの場合は不要。依存がない場合も不要。\n\n1. 拡張機能ディレクトリへ移動\n\n```bash\ncd extensions/calc\n```\n\n2. 依存関係のインストール\n\n```bash\npnpm install\n```\n\n3. ビルドと登録\n\n```bash\n# 拡張機能のビルド\npnpm run setup-build\n\n# 開発サーバー（必要に応じて）\n# pnpm run setup-buildが自動実行されます\npnpm run dev\n```\n\n## よく使う開発フロー / Tips\n\n- 小さなUIの追加や調整は `index.tsx` を編集します。\n- 複数ファイルも対応しています。\n- 外部ライブラリは `PNPM` を使って追加できます（テンプレートで `PNPM` を有効にした場合、`package.json` が作成されます）。\n- UI 拡張（Reactを使う場合）は `Calc` をエクスポートする形式で作ると既存の登録方法と整合しやすいです。\n\n## ファイル構成（生成される典型例）\n\n- `manifest.json` — 拡張のメタデータ\n- `index.tsx` — エントリポイント（UI拡張なら React コンポーネントなど）\n- `README.md` — このファイル\n- `package.json` — （pnpm を有効にした場合に生成）\n\n## 開発に関する注意点\n\n- 依存関係を変更したら `pnpm install` を再実行してください。\n- IndexedDBに保存するため、ホットリロードは影響しません。ExtensionPanelの、Updateボタンを押して手動更新してください。\n\n## トラブルシュート\n\n- 既存と衝突する ID を使うとエラーになります。ID は小文字英数字とハイフンのみにしてください。\n\n## ライセンス\n\nMIT\n"
+}

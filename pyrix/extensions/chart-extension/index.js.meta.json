@@ -1,0 +1,104 @@
+{
+  "inputs": {
+    "node_modules/.pnpm/@kurkle+color@0.3.4/node_modules/@kurkle/color/dist/color.esm.js": {
+      "bytes": 12609,
+      "imports": [
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    },
+    "node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chunks/helpers.dataset.js": {
+      "bytes": 96538,
+      "imports": [
+        {
+          "path": "node_modules/.pnpm/@kurkle+color@0.3.4/node_modules/@kurkle/color/dist/color.esm.js",
+          "kind": "import-statement",
+          "original": "@kurkle/color"
+        },
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    },
+    "node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chart.js": {
+      "bytes": 408255,
+      "imports": [
+        {
+          "path": "node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chunks/helpers.dataset.js",
+          "kind": "import-statement",
+          "original": "./chunks/helpers.dataset.js"
+        },
+        {
+          "path": "node_modules/.pnpm/@kurkle+color@0.3.4/node_modules/@kurkle/color/dist/color.esm.js",
+          "kind": "import-statement",
+          "original": "@kurkle/color"
+        },
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    },
+    "extensions/chart-extension/index.tsx": {
+      "bytes": 4592,
+      "imports": [
+        {
+          "path": "node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chart.js",
+          "kind": "import-statement",
+          "original": "chart.js"
+        },
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    }
+  },
+  "outputs": {
+    "public/extensions/chart-extension/index.js": {
+      "imports": [
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "exports": [
+        "activate",
+        "deactivate"
+      ],
+      "entryPoint": "extensions/chart-extension/index.tsx",
+      "inputs": {
+        "node_modules/.pnpm/@kurkle+color@0.3.4/node_modules/@kurkle/color/dist/color.esm.js": {
+          "bytesInOutput": 13404
+        },
+        "node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chunks/helpers.dataset.js": {
+          "bytesInOutput": 80355
+        },
+        "node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chart.js": {
+          "bytesInOutput": 373746
+        },
+        "extensions/chart-extension/index.tsx": {
+          "bytesInOutput": 4169
+        }
+      },
+      "bytes": 472823
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "action": {
+    "authenticating": "Uwierzytelnianie...",
+    "cancel": "Anuluj",
+    "refresh": "Odśwież",
+    "retry": "Spróbuj ponownie"
+  },
+  "ai": {
+    "applied": "Zastosowano",
+    "changedFilesList": {
+      "count": "{count} plików",
+      "expand": "Rozwiń",
+      "minimize": "Minimalizuj",
+      "title": "Zmienione pliki"
+    },
+    "chatContainer": {
+      "generating": "AI generuje odpowiedź...",
+      "suggest": "Zadaj pytanie lub poproś o kod."
+    },
+    "context": {
+      "select": "Wybierz pliki"
+    },
+    "fileChangeItem": {
+      "apply": "Zastosuj",
+      "confirm": "Potwierdź",
+      "discard": "Odrzuć",
+      "noHandler": "Brak dostępnego handlera"
+    },
+    "fileContextBar": {
+      "remove": "Usuń"
+    },
+    "hints": {
+      "enterSend": "Enter: nowa linia / Ctrl+Enter: wyślij",
+      "history": "Alt+↑↓: historia"
+    },
+    "mode": {
+      "ask": "Zadaj pytania AI lub skonsultuj się w sprawie kodu",
+      "edit": "Wpisz instrukcje, aby edytować kod"
+    },
+    "pending": "Oczekujące",
+    "promptDebug": {
+      "close": "Fermer",
+      "copy": "Kopiuj",
+      "sampleInput": "Przykładowe wejście",
+      "title": "Debugowanie promptu"
+    },
+    "revert": {
+      "cancel": "Anuluj",
+      "confirm": "Potwierdź",
+      "confirmMessage": "Czy na pewno chcesz cofnąć zmianę?",
+      "confirmTitle": "Cofnij zmianę",
+      "label": "Cofnij"
+    },
+    "revertTooltip": "Cofnij tę zmianę",
+    "sendTitle": "Wyślij (Ctrl+Enter)",
+    "showPrompt": "Pokaż prompt"
+  },
+  "aiReviewTab": {
+    "applyAll": "Zastosuj wszystko",
+    "autoSaveAndApply": "Zmiany są automatycznie zapisywane i można je zastosować przy pomocy 'Zastosuj wszystko'.",
+    "discard": "Odrzuć",
+    "discardAllAndRevert": "Odrzuć wszystko i przywróć",
+    "editRightDirectly": "Możesz edytować bezpośrednio w prawym edytorze",
+    "notFound": "Dane przeglądu AI nie znalezione",
+    "revert": "Przywróć",
+    "revertApplied": "Cofnij zastosowane",
+    "revertButton": "Cofnij",
+    "revertSelectionHint": "Możesz częściowo przywrócić, klikając prawym przyciskiem i wybierając 'Przywróć zaznaczenie'."
+  },
+  "auth": {
+    "authFailed": "Uwierzytelnianie GitHub nie powiodło się",
+    "authSuccess": "Uwierzytelnianie GitHub powiodło się!",
+    "clickToOpenMenu": "Kliknij, aby otworzyć menu",
+    "patDescription": "<0>Kliknij tutaj</0>, aby utworzyć PAT (wymagany zakres repozytorium)",
+    "patPlaceholder": "ghp_xxxxxxxxxxxx",
+    "patPrompt": "GitHub Personal Access Token",
+    "signIn": "Zaloguj się",
+    "signOut": "Wyloguj się",
+    "signOutConfirm": "Czy na pewno chcesz się wylogować z GitHub?"
+  },
+  "binaryTab": {
+    "unsupportedFormat": "Ten format pliku nie może być wyświetlony"
+  },
+  "bottom": {
+    "debugConsole": "Konsola debugowania",
+    "escButton": "ESC",
+    "output": "Wyjście",
+    "outputPanel": {
+      "all": "Wszystko",
+      "clear": "Wyczyść",
+      "clearTooltip": "Wyczyść aktualnie wyświetlane wyjście",
+      "contextLabel": "Kontekst",
+      "empty": "Brak wyjścia",
+      "partiallyHidden": "Niektóre elementy ukryte",
+      "typeLabel": "Typ"
+    },
+    "problems": "Problemy",
+    "terminal": "Terminal",
+    "terminalInitializing": "Inicjalizowanie terminala..."
+  },
+  "charCountDisplay": {
+    "clickForDetails": "Kliknij, aby zobaczyć szczegóły",
+    "close": "Zamknij",
+    "selectedAndTotal": "Wybrane: {selectionCount} znaków (bez spacji) / Razem: {charCount} znaków (bez spacji)",
+    "total": "Razem: {charCount} znaków (bez spacji)"
+  },
+  "chatSpaceList": {
+    "confirmDelete": "Czy na pewno chcesz usunąć tę przestrzeń?",
+    "create": "Utwórz nową przestrzeń",
+    "delete": "Usuń",
+    "rename": "Zmień nazwę",
+    "title": "Przestrzenie czatu"
+  },
+  "common": {
+    "cancel": "Anuluj",
+    "editable": "Editable",
+    "save": "Zapisz"
+  },
+  "confirmation": {
+    "title": "Potwierdzenie"
+  },
+  "diff": {
+    "diff": "Różnice",
+    "lines": "linie",
+    "original": "Oryginał",
+    "suggested": "Sugerowane"
+  },
+  "diffTab": {
+    "binaryFile": "Plik binarny: nie można wyświetlić różnic",
+    "fileList": "Lista plików",
+    "noDiffFiles": "Brak plików z różnicami"
+  },
+  "editorPlaceholder": {
+    "loadingEditor": "Ładowanie edytora...",
+    "loadingFile": "Przywracanie zawartości pliku...",
+    "selectFile": "Proszę wybrać plik"
+  },
+  "fileTree": {
+    "alert": {
+      "renameFailed": "Zmiana nazwy nie powiodła się: {error}"
+    },
+    "menu": {
+      "createFile": "Utwórz plik",
+      "createFolder": "Utwórz folder",
+      "delete": "Usuń",
+      "download": "Pobierz",
+      "importFiles": "Importuj pliki",
+      "importFolder": "Importuj folder",
+      "open": "Otwórz",
+      "openCodeMirror": "Otwórz w CodeMirror",
+      "openPreview": "Otwórz podgląd",
+      "rename": "Zmień nazwę",
+      "webPreview": "Podgląd web"
+    },
+    "prompt": {
+      "newFileName": "Wprowadź nową nazwę pliku:",
+      "newFolderName": "Wprowadź nową nazwę folderu:",
+      "rename": "Wprowadź nową nazwę:"
+    }
+  },
+  "git": {
+    "apiKeyPlaceholder": "Wprowadź klucz API Gemini",
+    "branchFilter": {
+      "all": "Wszystkie",
+      "allMode": "Wszystkie gałęzie",
+      "allModeDesc": "Pokaż commity ze wszystkich gałęzi",
+      "auto": "Auto",
+      "autoMode": "Auto (tylko HEAD)",
+      "autoModeDesc": "Pokaż commity tylko z aktualnej gałęzi",
+      "localBranch": "Gałąź lokalna",
+      "remoteBranch": "Zdalna gałąź",
+      "selectBranches": "Wybierz gałęzie",
+      "selectBranchesDesc": "Wybierz określone gałęzie",
+      "selected": "wybrane",
+      "title": "Filtr gałęzi",
+      "tooltip": "Filtr gałęzi"
+    },
+    "changes": "Zmiany",
+    "commit": "Commit",
+    "commitMessagePlaceholder": "Wprowadź wiadomość commita...",
+    "deleted": "Usunięto",
+    "discard": "Odrzuć",
+    "discardAll": "Odrzuć wszystko",
+    "discardAllAndRevert": "Odrzuć wszystko i przywróć",
+    "discardChangesMessage": "Czy chcesz odrzucić te zmiany?",
+    "discardChangesTitle": "Odrzuć zmiany?",
+    "errorOccurred": "Wystąpił błąd",
+    "generateCommitMessage": "Wygeneruj za pomocą AI",
+    "history": "Historia",
+    "infoNotAvailable": "Nie można pobrać informacji o git",
+    "loadingStatus": "Ładowanie statusu git...",
+    "noChanges": "Brak zmian",
+    "noHistory": "Brak historii commitów",
+    "projectSelect": "Wybierz projekt",
+    "stage": "Stage",
+    "stageAll": "Stage wszystko",
+    "staged": "Zastage'owane",
+    "stageDelete": "Stage usunięcie",
+    "unstage": "Unstage",
+    "unstageAll": "Unstage wszystko",
+    "unstaged": "Nie-stage'owane",
+    "untracked": "Nieśledzone",
+    "viewDiffEditable": "Pokaż różnice (edytowalne)",
+    "viewDiffReadonly": "Pokaż różnice (tylko do odczytu)"
+  },
+  "gitHistory": {
+    "allFiles": "Wszystkie {count} pliki",
+    "changedFiles": "Zmienione pliki:",
+    "daysAgo": "{days} dni temu",
+    "hoursAgo": "{hours} godzin temu",
+    "justNow": "właśnie teraz",
+    "loadingChanges": "Ładowanie informacji o zmianach...",
+    "loadingMore": "Ładowanie...",
+    "loadMore": "Załaduj więcej",
+    "minutesAgo": "{minutes} minut temu",
+    "noChangedFiles": "Nie znaleziono zmienionych plików",
+    "showAllFilesDiff": "Pokaż różnice wszystkich plików dla tego commita",
+    "showFileDiff": "Pokaż różnice dla tego pliku"
+  },
+  "highlightedCode": {
+    "copyCode": "Kopiuj kod"
+  },
+  "leftSidebar": {
+    "createFile": "Utwórz nowy plik",
+    "createFolder": "Utwórz nowy folder"
+  },
+  "markdownPreview": {
+    "downloadSvg": "Pobierz SVG",
+    "exportPdf": "Eksportuj PDF",
+    "exportPng": "Eksportuj PNG",
+    "generatingMermaid": "Generowanie diagramu Mermaid...",
+    "imageNotFound": "Nie znaleziono obrazu: {src}",
+    "loadingImage": "Ładowanie obrazu...",
+    "mermaidPlaceholder": "Przewiń, aby zobaczyć diagram Mermaid",
+    "preview": "Podgląd",
+    "reset": "Resetuj",
+    "zoomIn": "Powiększ",
+    "zoomOut": "Pomniejsz"
+  },
+  "menu": {
+    "extensions": "Rozszerzenia",
+    "files": "Pliki",
+    "git": "Git",
+    "project": "Zarządzanie projektem",
+    "run": "Uruchom",
+    "search": "Szukaj",
+    "settings": "Ustawienia"
+  },
+  "mergeConflict": {
+    "acceptBoth": "Accept Both",
+    "acceptOurs": "Accept Ours",
+    "acceptTheirs": "Accept Theirs",
+    "completeResolve": "Complete Resolution",
+    "conflictFiles": "Conflict Files",
+    "markAsResolved": "Mark as Resolved",
+    "noConflicts": "No conflicts",
+    "oursVsTheirs": "Ours vs Theirs",
+    "resolved": "Resolved",
+    "resolvedResult": "Resolved Result",
+    "resultView": "Result Only",
+    "threeWayView": "3-Way View",
+    "title": "Merge Conflict Resolution"
+  },
+  "operationWindow": {
+    "closeByEsc": "Zamknij ESC",
+    "footerHelp": "Użyj ↑↓ aby wybrać, Enter aby otworzyć",
+    "mdPreviewDialogHelp": "Tab/←→ aby przełączać, Enter aby potwierdzić, ESC aby zamknąć",
+    "mdPreviewPrompt": "Otworzyć w podglądzie Markdown?",
+    "noFilesFound": "Nie znaleziono plików",
+    "noItemsFound": "Nie znaleziono elementów",
+    "openInEditor": "Otwórz w edytorze",
+    "openInPreview": "Otwórz w podglądzie",
+    "quickOpen": "Szybkie otwieranie",
+    "searchPlaceholder": "Szukaj po nazwie pliku/folderu lub ścieżce..."
+  },
+  "projectModal": {
+    "cancel": "Anuluj",
+    "clone": "Klonuj z GitHub",
+    "cloneFromGitHub": "Klonuj z GitHub",
+    "cloneSuccess": "Klonowanie powiodło się",
+    "create": "Utwórz",
+    "created": "Utworzono",
+    "deleteConfirm": "Czy na pewno chcesz usunąć ten projekt?",
+    "deleteProject": "Usuń projekt",
+    "description": "Opis",
+    "descriptionOptional": "Opis (opcjonalnie)",
+    "descriptionPlaceholder": "Wprowadź opis projektu...",
+    "editProject": "Edytuj projekt",
+    "inputRepoUrl": "URL repozytorium",
+    "loading": "Ładowanie...",
+    "nameHint": "Używaj znaków alfanumerycznych i myślników",
+    "nameValidation": "Nazwa projektu może zawierać tylko znaki alfanumeryczne i myślniki. Brak spacji ani japońskich znaków.",
+    "newProject": "Nowy projekt",
+    "noProjects": "Nie znaleziono projektów",
+    "open": "Otwórz",
+    "projectName": "Nazwa projektu",
+    "projectNameOptional": "Nazwa projektu (opcjonalnie)",
+    "projectNameOptionalPlaceholder": "Opcjonalna nazwa projektu...",
+    "projectNamePlaceholder": "Wprowadź nazwę projektu...",
+    "repoUrl": "URL repozytorium",
+    "repoUrlPlaceholder": "https://github.com/owner/repo",
+    "save": "Zapisz",
+    "title": "Zarządzanie projektem",
+    "updated": "Zaktualizowano"
+  },
+  "run": {
+    "clearOutput": "Wyczyść wyjście",
+    "execute": "Wykonaj",
+    "executeHint": "Naciśnij Ctrl+Enter (Cmd+Enter) aby wykonać",
+    "executionStopped": "Wykonanie zatrzymane",
+    "inputPlaceholder": "Wprowadź kod Node.js...",
+    "noProject": "Otwórz projekt aby uruchomić Node.js",
+    "outputHint": "Wyniki wykonania kodu JavaScript/Node.js/Python będą wyświetlane tutaj. Node.js i js mogą być uruchamiane w tym samym pliku.",
+    "runtimeNotReady": "Środowisko Python nie zostało zainicjowane",
+    "selectFile": "Wybierz plik",
+    "stop": "Zatrzymaj",
+    "title": "Środowisko wykonawcze"
+  },
+  "searchPanel": {
+    "caseSensitive": "Rozróżnia wielkość liter",
+    "enterToSearch": "Naciśnij Enter, aby wyszukać",
+    "noResults": "Brak wyników",
+    "realtimeMode": "Na żywo",
+    "resultCount": "{count} wyników",
+    "searchInFiles": "Szukaj w plikach...",
+    "searching": "Szukam...",
+    "useRegex": "Użyj regex",
+    "wholeWord": "Całe słowo"
+  },
+  "settingsPanel": {
+    "api": {
+      "apiKeyPlaceholder": "Wprowadź klucz API",
+      "geminiApiKey": "Klucz API Gemini",
+      "savedToLocalStorage": "Zapisano do LocalStorage",
+      "title": "API"
+    },
+    "editor": {
+      "defaultEditor": "Domyślny edytor",
+      "fontSize": "Rozmiar czcionki",
+      "savedToLocalStorage": "Zapisano do LocalStorage",
+      "tabSize": "Wielkość tabulacji",
+      "title": "Edytor",
+      "wordWrap": "Włącz zawijanie wierszy"
+    },
+    "export": {
+      "exporting": "Eksport...",
+      "includeGit": "Dołącz katalog .git",
+      "title": "Eksport przestrzeni roboczej",
+      "zipDownload": "Pobierz ZIP"
+    },
+    "files": {
+      "excludeHint": "Pliki/foldery ukryte w eksploratorze",
+      "excludePattern": "Wzorzec wykluczeń",
+      "title": "Pliki"
+    },
+    "loading": "Ładowanie ustawień...",
+    "markdown": {
+      "mathDelimiter": "Separator matematyczny",
+      "mathDelimiterHint": "Separator używany dla matematyki wbudowanej i blokowej (np. $ $ lub $$ $$)"
+    },
+    "search": {
+      "excludePattern": "Wzorzec wykluczeń",
+      "globPatternHint": "Wpisz jeden wzorzec glob na linię",
+      "title": "Szukaj",
+      "useIgnoreFiles": "Użyj plików ignorujących jak .gitignore"
+    },
+    "shortcutKeys": "Skróty klawiaturowe",
+    "theme": {
+      "colorCustomize": "Dostosuj kolory",
+      "colorTheme": "Motyw kolorów",
+      "title": "Motyw"
+    }
+  },
+  "shortcutKeys": {
+    "autoSaved": "Automatycznie zapisano",
+    "clickToEdit": "Kliknij, aby edytować",
+    "enterNewKey": "Wprowadź nowy klawisz",
+    "escToCancel": "Esc, aby anulować",
+    "noResults": "Nie znaleziono pasujących skrótów",
+    "pressKey": "Naciśnij klawisz...",
+    "resetDefaults": "Przywróć domyślne",
+    "searchPlaceholder": "Szukaj (funkcja, klawisz)...",
+    "shortcutFor": "skrót dla",
+    "title": "Skróty klawiaturowe"
+  },
+  "tabBar": {
+    "closeTab": "Zamknij kartę",
+    "moveToPane": "Przenieś do panelu",
+    "openPreview": "Otwórz podgląd",
+    "paneMenu": "Menu panelu",
+    "removeAllTabs": "Usuń wszystkie karty",
+    "removePane": "Usuń panel",
+    "splitHorizontal": "Podział poziomy",
+    "splitVertical": "Podział pionowy",
+    "unsavedChanges": "Niezapisane zmiany"
+  },
+  "tabCloseConfirmation": {
+    "cancel": "Anuluj",
+    "discardAndClose": "Odrzuć i zamknij",
+    "discardChangesMessage": "W tej karcie znajdują się niezapisane zmiany. Czy na pewno chcesz ją zamknąć?",
+    "discardChangesTitle": "Odrzucić zmiany?"
+  },
+  "topBar": {
+    "searchLabel": "Wyszukiwanie plików",
+    "searchTitle": "Wyszukiwanie plików (Ctrl+P)",
+    "toggleRightPanel": "Przełącz prawy panel",
+    "toggleTerminal": "Przełącz terminal"
+  },
+  "webPreviewTab": {
+    "emptyDirectory": "Katalog jest pusty",
+    "inlineHtmlFailed": "Błąd podczas wstawiania zasobów HTML",
+    "notFound": "Plik lub folder nie znaleziony"
+  },
+  "welcome": {
+    "devServer": {
+      "officialSite": "oficjalną stronę (GitHub Pages)",
+      "stableVersion": "Dla stabilnej wersji odwiedź",
+      "warning": "⚠️ Przeglądasz serwer deweloperski (Render)."
+    }
+  }
+}

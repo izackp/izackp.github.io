@@ -1,0 +1,111 @@
+{
+  "inputs": {
+    "node_modules/.pnpm/latexium@0.1.1/node_modules/latexium/dist/index.esm.js": {
+      "bytes": 536083,
+      "imports": [
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    },
+    "extensions/calc/index.tsx": {
+      "bytes": 18022,
+      "imports": [
+        {
+          "path": "node_modules/.pnpm/latexium@0.1.1/node_modules/latexium/dist/index.esm.js",
+          "kind": "import-statement",
+          "original": "latexium"
+        },
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react-markdown",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "rehype-katex",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "rehype-raw",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "remark-gfm",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "remark-math",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    }
+  },
+  "outputs": {
+    "public/extensions/calc/index.js": {
+      "imports": [
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react-markdown",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "rehype-katex",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "rehype-raw",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "remark-gfm",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "remark-math",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "exports": [
+        "activate",
+        "deactivate"
+      ],
+      "entryPoint": "extensions/calc/index.tsx",
+      "inputs": {
+        "node_modules/.pnpm/latexium@0.1.1/node_modules/latexium/dist/index.esm.js": {
+          "bytesInOutput": 403043
+        },
+        "extensions/calc/index.tsx": {
+          "bytesInOutput": 15340
+        }
+      },
+      "bytes": 418657
+    }
+  }
+}

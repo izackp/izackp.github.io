@@ -1,0 +1,421 @@
+{
+  "action": {
+    "authenticating": "Mengautentikasi...",
+    "cancel": "Batal",
+    "refresh": "Muat ulang",
+    "retry": "Coba lagi"
+  },
+  "ai": {
+    "applied": "Telah diterapkan",
+    "changedFilesList": {
+      "count": "{count} file",
+      "expand": "Perluas",
+      "minimize": "Perkecil",
+      "title": "File yang berubah"
+    },
+    "chatContainer": {
+      "generating": "AI sedang membuat respon...",
+      "suggest": "Silakan tanyakan pertanyaan atau permintaan kode."
+    },
+    "context": {
+      "select": "Pilih file"
+    },
+    "fileChangeItem": {
+      "apply": "Terapkan",
+      "confirm": "Konfirmasi",
+      "discard": "Buang",
+      "noHandler": "Tidak ada handler"
+    },
+    "fileContextBar": {
+      "remove": "Hapus"
+    },
+    "hints": {
+      "enterSend": "Enter: baris baru / Ctrl+Enter: kirim",
+      "history": "Alt+↑↓: riwayat"
+    },
+    "mode": {
+      "ask": "Tanyakan ke AI atau konsultasikan tentang kode...",
+      "edit": "Masukkan instruksi untuk mengedit kode..."
+    },
+    "pending": "Tertunda",
+    "promptDebug": {
+      "close": "Tutup",
+      "copy": "Salin",
+      "sampleInput": "Contoh input",
+      "title": "Debug prompt"
+    },
+    "revert": {
+      "cancel": "Batal",
+      "confirm": "Konfirmasi",
+      "confirmMessage": "Apakah Anda yakin ingin membatalkan perubahan ini?",
+      "confirmTitle": "Kembalikan perubahan",
+      "label": "Kembalikan"
+    },
+    "revertTooltip": "Kembalikan perubahan ini",
+    "sendTitle": "Kirim (Ctrl+Enter)",
+    "showPrompt": "Tampilkan prompt"
+  },
+  "aiReviewTab": {
+    "applyAll": "Terapkan semua",
+    "autoSaveAndApply": "Perubahan disimpan otomatis dan diterapkan di file dengan 'Terapkan semua'.",
+    "discard": "Buang",
+    "discardAllAndRevert": "Buang semua perubahan dan kembalikan",
+    "editRightDirectly": "Anda dapat mengedit langsung di editor kanan",
+    "notFound": "Data tinjauan AI tidak ditemukan",
+    "revert": "Kembalikan",
+    "revertApplied": "Batalkan yang diterapkan",
+    "revertButton": "Batalkan",
+    "revertSelectionHint": "Anda juga bisa mengembalikan sebagian dengan klik kanan dan pilih 'Revert selection'."
+  },
+  "auth": {
+    "authFailed": "Autentikasi GitHub gagal",
+    "authSuccess": "Autentikasi GitHub berhasil!",
+    "clickToOpenMenu": "Klik untuk membuka menu",
+    "patDescription": "<0>Klik di sini</0> untuk membuat PAT (diperlukan scope repo)",
+    "patPlaceholder": "ghp_xxxxxxxxxxxx",
+    "patPrompt": "GitHub Personal Access Token",
+    "signIn": "Masuk",
+    "signOut": "Keluar",
+    "signOutConfirm": "Yakin ingin keluar dari GitHub?"
+  },
+  "binaryTab": {
+    "unsupportedFormat": "Format file ini tidak bisa ditampilkan"
+  },
+  "bottom": {
+    "debugConsole": "Konsol Debug",
+    "escButton": "ESC",
+    "output": "Output",
+    "outputPanel": {
+      "all": "Semua",
+      "clear": "Bersihkan",
+      "clearTooltip": "Bersihkan output yang sedang ditampilkan",
+      "contextLabel": "Konteks",
+      "empty": "Tidak ada output",
+      "partiallyHidden": "Beberapa item tersembunyi",
+      "typeLabel": "Tipe"
+    },
+    "problems": "Masalah",
+    "terminal": "Terminal",
+    "terminalInitializing": "Menginisialisasi terminal..."
+  },
+  "charCountDisplay": {
+    "clickForDetails": "Klik untuk detail",
+    "close": "Tutup",
+    "selectedAndTotal": "Terpilih: {selectionCount} karakter (tanpa spasi) / Total: {charCount} karakter (tanpa spasi)",
+    "total": "Total: {charCount} karakter (tanpa spasi)"
+  },
+  "chatSpaceList": {
+    "confirmDelete": "Yakin ingin menghapus space ini?",
+    "create": "Buat space baru",
+    "delete": "Hapus",
+    "rename": "Ubah nama",
+    "title": "Ruang obrolan"
+  },
+  "common": {
+    "cancel": "Batal",
+    "editable": "Editable",
+    "save": "Simpan"
+  },
+  "confirmation": {
+    "title": "Konfirmasi"
+  },
+  "diff": {
+    "diff": "Perbedaan",
+    "lines": "baris",
+    "original": "Asli",
+    "suggested": "Disarankan"
+  },
+  "diffTab": {
+    "binaryFile": "File biner: tidak dapat menampilkan diff",
+    "fileList": "Daftar File",
+    "noDiffFiles": "Tidak ada file diff"
+  },
+  "editorPlaceholder": {
+    "loadingEditor": "Memuat editor...",
+    "loadingFile": "Mengembalikan isi file...",
+    "selectFile": "Silakan pilih file"
+  },
+  "fileTree": {
+    "alert": {
+      "renameFailed": "Ganti nama gagal: {error}"
+    },
+    "menu": {
+      "createFile": "Buat file",
+      "createFolder": "Buat folder",
+      "delete": "Hapus",
+      "download": "Unduh",
+      "importFiles": "Impor file",
+      "importFolder": "Impor folder",
+      "open": "Buka",
+      "openCodeMirror": "Buka di CodeMirror",
+      "openPreview": "Buka pratinjau",
+      "rename": "Ganti nama",
+      "webPreview": "WebPreview"
+    },
+    "prompt": {
+      "newFileName": "Masukkan nama file baru:",
+      "newFolderName": "Masukkan nama folder baru:",
+      "rename": "Masukkan nama baru:"
+    }
+  },
+  "git": {
+    "apiKeyPlaceholder": "Masukkan kunci API Gemini",
+    "branchFilter": {
+      "all": "Semua",
+      "allMode": "Semua Cabang",
+      "allModeDesc": "Tampilkan commit dari semua cabang",
+      "auto": "Otomatis",
+      "autoMode": "Otomatis (hanya HEAD)",
+      "autoModeDesc": "Tampilkan commit hanya dari cabang saat ini",
+      "localBranch": "Cabang lokal",
+      "remoteBranch": "Cabang jarak jauh",
+      "selectBranches": "Pilih cabang",
+      "selectBranchesDesc": "Pilih cabang tertentu",
+      "selected": "dipilih",
+      "title": "Filter Cabang",
+      "tooltip": "Filter cabang"
+    },
+    "changes": "Perubahan",
+    "commit": "Commit",
+    "commitMessagePlaceholder": "Masukkan pesan commit...",
+    "deleted": "Dihapus",
+    "discard": "Buang",
+    "discardAll": "Buang semua",
+    "discardAllAndRevert": "Buang semua perubahan dan kembalikan",
+    "discardChangesMessage": "Apakah Anda ingin membuang perubahan ini?",
+    "discardChangesTitle": "Buang perubahan?",
+    "errorOccurred": "Terjadi kesalahan",
+    "generateCommitMessage": "Buat pesan commit dengan AI",
+    "history": "Riwayat",
+    "infoNotAvailable": "Tidak dapat mengambil informasi git",
+    "loadingStatus": "Memuat status git...",
+    "noChanges": "Tidak ada perubahan",
+    "noHistory": "Tidak ada riwayat commit",
+    "projectSelect": "Silakan pilih proyek",
+    "stage": "Stage",
+    "stageAll": "Stage semua",
+    "staged": "Teredang",
+    "stageDelete": "Stage penghapusan",
+    "unstage": "Unstage",
+    "unstageAll": "Unstage semua",
+    "unstaged": "Belum ter-stage",
+    "untracked": "Belum dilacak",
+    "viewDiffEditable": "Lihat diff (dapat diedit)",
+    "viewDiffReadonly": "Lihat diff (hanya baca)"
+  },
+  "gitHistory": {
+    "allFiles": "Semua {count} file",
+    "changedFiles": "File yang diubah:",
+    "daysAgo": "{days} hari yang lalu",
+    "hoursAgo": "{hours} jam yang lalu",
+    "justNow": "baru saja",
+    "loadingChanges": "Memuat info perubahan...",
+    "loadingMore": "Memuat...",
+    "loadMore": "Muat lebih banyak",
+    "minutesAgo": "{minutes} menit yang lalu",
+    "noChangedFiles": "Tidak ditemukan file yang berubah",
+    "showAllFilesDiff": "Tampilkan semua diff file untuk commit ini",
+    "showFileDiff": "Tampilkan diff untuk file ini"
+  },
+  "highlightedCode": {
+    "copyCode": "Salin kode"
+  },
+  "leftSidebar": {
+    "createFile": "Buat file baru",
+    "createFolder": "Buat folder baru"
+  },
+  "markdownPreview": {
+    "downloadSvg": "Unduh SVG",
+    "exportPdf": "Ekspor PDF",
+    "exportPng": "Ekspor PNG",
+    "generatingMermaid": "Membuat diagram Mermaid...",
+    "imageNotFound": "Gambar tidak ditemukan: {src}",
+    "loadingImage": "Memuat gambar...",
+    "mermaidPlaceholder": "Gulir untuk melihat diagram Mermaid",
+    "preview": "Pratinjau",
+    "reset": "Atur ulang",
+    "zoomIn": "Perbesar",
+    "zoomOut": "Perkecil"
+  },
+  "menu": {
+    "extensions": "Ekstensi",
+    "files": "File",
+    "git": "Git",
+    "project": "Manajemen Proyek",
+    "run": "Jalankan",
+    "search": "Cari",
+    "settings": "Pengaturan"
+  },
+  "mergeConflict": {
+    "acceptBoth": "Accept Both",
+    "acceptOurs": "Accept Ours",
+    "acceptTheirs": "Accept Theirs",
+    "completeResolve": "Complete Resolution",
+    "conflictFiles": "Conflict Files",
+    "markAsResolved": "Mark as Resolved",
+    "noConflicts": "No conflicts",
+    "oursVsTheirs": "Ours vs Theirs",
+    "resolved": "Resolved",
+    "resolvedResult": "Resolved Result",
+    "resultView": "Result Only",
+    "threeWayView": "3-Way View",
+    "title": "Merge Conflict Resolution"
+  },
+  "operationWindow": {
+    "closeByEsc": "Tutup dengan ESC",
+    "footerHelp": "Gunakan ↑↓ untuk pilih, Enter untuk buka",
+    "mdPreviewDialogHelp": "Tab/←→ untuk berganti, Enter untuk konfirmasi, ESC untuk tutup",
+    "mdPreviewPrompt": "Buka di pratinjau Markdown?",
+    "noFilesFound": "Tidak ada file ditemukan",
+    "noItemsFound": "Tidak ada item yang ditemukan",
+    "openInEditor": "Buka di Editor",
+    "openInPreview": "Buka di Pratinjau",
+    "quickOpen": "Buka cepat",
+    "searchPlaceholder": "Cari nama file/folder atau path..."
+  },
+  "projectModal": {
+    "cancel": "Batal",
+    "clone": "Clone dari GitHub",
+    "cloneFromGitHub": "Clone dari GitHub",
+    "cloneSuccess": "Clone berhasil",
+    "create": "Buat",
+    "created": "Dibuat",
+    "deleteConfirm": "Yakin ingin menghapus proyek ini?",
+    "deleteProject": "Hapus Proyek",
+    "description": "Deskripsi",
+    "descriptionOptional": "Deskripsi (opsional)",
+    "descriptionPlaceholder": "Masukkan deskripsi proyek...",
+    "editProject": "Edit Proyek",
+    "inputRepoUrl": "URL Repository",
+    "loading": "Memuat...",
+    "nameHint": "Gunakan karakter alfanumerik dan strip",
+    "nameValidation": "Nama proyek hanya boleh berisi karakter alfanumerik dan strip. Tidak boleh menggunakan bahasa Jepang. Spasi akan diganti dengan strip.",
+    "newProject": "Proyek Baru",
+    "noProjects": "Tidak ada proyek ditemukan",
+    "open": "Buka",
+    "projectName": "Nama Proyek",
+    "projectNameOptional": "Nama Proyek (opsional)",
+    "projectNameOptionalPlaceholder": "Nama proyek (opsional)...",
+    "projectNamePlaceholder": "Masukkan nama proyek...",
+    "repoUrl": "URL Repository",
+    "repoUrlPlaceholder": "https://github.com/owner/repo",
+    "save": "Simpan",
+    "title": "Manajemen Proyek",
+    "updated": "Diperbarui"
+  },
+  "run": {
+    "clearOutput": "Bersihkan output",
+    "execute": "Jalankan",
+    "executeHint": "Tekan Ctrl+Enter (Cmd+Enter) untuk menjalankan",
+    "executionStopped": "Eksekusi dihentikan",
+    "inputPlaceholder": "Masukkan kode Node.js...",
+    "noProject": "Buka proyek untuk menjalankan Node.js",
+    "outputHint": "Saat Anda menjalankan JavaScript/Node.js/Python, hasil akan ditampilkan di sini. Node.js dan js dapat dijalankan di file yang sama.",
+    "runtimeNotReady": "Runtime Python belum diinisialisasi",
+    "selectFile": "Pilih file",
+    "stop": "Berhenti",
+    "title": "Lingkungan Eksekusi"
+  },
+  "searchPanel": {
+    "caseSensitive": "Peka huruf besar/kecil",
+    "enterToSearch": "Tekan Enter untuk mencari",
+    "noResults": "Tidak ditemukan hasil",
+    "realtimeMode": "Waktu nyata",
+    "resultCount": "{count} hasil",
+    "searchInFiles": "Cari di file...",
+    "searching": "Mencari...",
+    "useRegex": "Gunakan regex",
+    "wholeWord": "Kata utuh"
+  },
+  "settingsPanel": {
+    "api": {
+      "apiKeyPlaceholder": "Masukkan kunci API",
+      "geminiApiKey": "Kunci API Gemini",
+      "savedToLocalStorage": "Tersimpan di LocalStorage",
+      "title": "API"
+    },
+    "editor": {
+      "defaultEditor": "Editor Default",
+      "fontSize": "Ukuran Font",
+      "savedToLocalStorage": "Tersimpan di LocalStorage",
+      "tabSize": "Ukuran Tab",
+      "title": "Editor",
+      "wordWrap": "Aktifkan pembungkus kata"
+    },
+    "export": {
+      "exporting": "Mengekspor...",
+      "includeGit": "Sertakan direktori .git",
+      "title": "Ekspor Workspace",
+      "zipDownload": "Unduh ZIP"
+    },
+    "files": {
+      "excludeHint": "File/folder yang disembunyikan di explorer",
+      "excludePattern": "Pola Exclude",
+      "title": "File"
+    },
+    "loading": "Memuat pengaturan...",
+    "markdown": {
+      "mathDelimiter": "Pemisah matematika",
+      "mathDelimiterHint": "Pemisah untuk matematika inline dan blok (mis. $ $ atau $$ $$)"
+    },
+    "search": {
+      "excludePattern": "Pola Exclude",
+      "globPatternHint": "Tulis satu pola glob per baris",
+      "title": "Cari",
+      "useIgnoreFiles": "Gunakan file ignore seperti .gitignore"
+    },
+    "shortcutKeys": "Pintasan keyboard",
+    "theme": {
+      "colorCustomize": "Kustomisasi Warna",
+      "colorTheme": "Tema Warna",
+      "title": "Tema"
+    }
+  },
+  "shortcutKeys": {
+    "autoSaved": "Tersimpan otomatis",
+    "clickToEdit": "Klik untuk mengedit",
+    "enterNewKey": "Masukkan tombol baru",
+    "escToCancel": "Esc untuk membatalkan",
+    "noResults": "Tidak ada pintasan yang cocok",
+    "pressKey": "Tekan tombol...",
+    "resetDefaults": "Reset ke default",
+    "searchPlaceholder": "Cari (fungsi, tombol)...",
+    "shortcutFor": "pintasan untuk",
+    "title": "Pintasan keyboard"
+  },
+  "tabBar": {
+    "closeTab": "Tutup tab",
+    "moveToPane": "Pindah ke pane",
+    "openPreview": "Buka pratinjau",
+    "paneMenu": "Menu pane",
+    "removeAllTabs": "Hapus semua tab",
+    "removePane": "Hapus pane",
+    "splitHorizontal": "Bagi horizontal",
+    "splitVertical": "Bagi vertikal",
+    "unsavedChanges": "Perubahan belum disimpan"
+  },
+  "tabCloseConfirmation": {
+    "cancel": "Batal",
+    "discardAndClose": "Buang dan tutup",
+    "discardChangesMessage": "Ada perubahan yang belum disimpan di tab ini. Yakin ingin menutupnya?",
+    "discardChangesTitle": "Buang perubahan?"
+  },
+  "topBar": {
+    "searchLabel": "Pencarian file",
+    "searchTitle": "Pencarian file (Ctrl+P)",
+    "toggleRightPanel": "Toggel panel kanan",
+    "toggleTerminal": "Toggel terminal"
+  },
+  "webPreviewTab": {
+    "emptyDirectory": "Direktori kosong",
+    "inlineHtmlFailed": "Gagal menyisipkan aset HTML",
+    "notFound": "File atau folder tidak ditemukan"
+  },
+  "welcome": {
+    "devServer": {
+      "officialSite": "situs resmi (GitHub Pages)",
+      "stableVersion": "Untuk pengalaman yang stabil, silakan kunjungi",
+      "warning": "⚠️ Anda sedang melihat server pengembangan (Render)."
+    }
+  }
+}

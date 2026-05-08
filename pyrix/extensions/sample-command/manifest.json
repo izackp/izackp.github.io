@@ -1,0 +1,20 @@
+{
+  "id": "pyxis.sample-command",
+  "name": "Sample Command Extension",
+  "version": "1.0.0",
+  "type": "tool",
+  "description": "カスタムコマンドを追加するサンプル拡張機能",
+  "author": "Pyxis Team",
+  "defaultEnabled": false,
+  "entry": "index.js",
+  "metadata": {
+    "publishedAt": "2025-11-04T00:00:00.000Z",
+    "updatedAt": "2025-11-04T00:00:00.000Z",
+    "tags": [
+      "command",
+      "sample",
+      "tool"
+    ]
+  },
+  "readme": "# Sample Command Extension\n\nカスタムターミナルコマンドを追加するサンプル拡張機能\n\n## 概要\n\nこの拡張機能は、Pyxisのターミナルに新しいコマンドを追加する方法を示すサンプルです。\n\n## 提供するコマンド\n\n### `hello [name]`\n\n挨拶メッセージを表示します。\n\n**使用例:**\n```bash\n$ hello\nHello, World!\nProject: my-project\nCurrent Directory: /projects/my-project\n\n$ hello Pyxis\nHello, Pyxis!\nProject: my-project\nCurrent Directory: /projects/my-project\n```\n\n### `fileinfo <filepath>`\n\n指定されたファイルの詳細情報を表示します。\n\n**使用例:**\n```bash\n$ fileinfo index.js\nFile Information:\n  Path: /projects/my-project/index.js\n  Type: File\n  Size: 1234 bytes\n  Modified: 2025-11-04T12:00:00.000Z\n  Mode: 100644\n\nFirst 5 lines:\n  1: import React from 'react';\n  2: \n  3: function App() {\n  4:   return <div>Hello</div>;\n  5: }\n  ... (10 more lines)\n```\n\n## 開発\n\n```bash\n# 拡張機能をビルド\npnpm run setup-build\n\n# 開発サーバー起動\npnpm run dev\n```\n\n## 使い方\n\n1. Pyxisを開く\n2. 拡張機能パネルから「Sample Command Extension」を有効化\n3. ターミナルで `hello` または `fileinfo` コマンドを使用\n\n## 技術詳細\n\n### コマンド登録\n\n```typescript\nexport async function activate(context: ExtensionContext): Promise<ExtensionActivation> {\n  if (context.commands) {\n    // コマンドを登録\n    context.commands.registerCommand('hello', async (args, ctx) => {\n      return `Hello, ${args.join(' ') || 'World'}!`;\n    });\n  }\n  \n  return {};\n}\n```\n\n### コマンドハンドラー\n\nコマンドハンドラーは以下の引数を受け取ります：\n\n- `args: string[]` - コマンドライン引数\n- `context: CommandContext` - 実行コンテキスト\n  - `projectName: string` - プロジェクト名\n  - `projectId: string` - プロジェクトID\n  - `currentDirectory: string` - 現在のディレクトリ\n  - `fileSystem: any` - Pyxisのファイルシステムインスタンス\n\nハンドラーは `Promise<string>` を返し、その文字列がターミナルに出力されます。\n\n## ファイル構成\n\n- `index.ts` - メインコード\n- `manifest.json` - 拡張機能のメタデータ\n- `README.md` - このファイル\n\n## License\n\nMIT\n"
+}

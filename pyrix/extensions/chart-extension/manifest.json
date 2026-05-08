@@ -1,0 +1,19 @@
+{
+  "id": "pyxis.chart-extension",
+  "name": "Chart Visualization",
+  "version": "1.0.0",
+  "type": "ui",
+  "description": "Chart visualization using Chart.js",
+  "author": "Pyxis Team",
+  "defaultEnabled": false,
+  "entry": "index.js",
+  "metadata": {
+    "publishedAt": "2025-01-04T00:00:00Z",
+    "tags": [
+      "ui",
+      "visualization",
+      "chart"
+    ]
+  },
+  "readme": "# Chart Extension\n\nChart.jsライブラリを使用したチャート表示拡張機能。\n\n## 機能\n\n- Line Chart\n- Bar Chart  \n- Pie Chart\n\n## 使用ライブラリ\n\n- chart.js@^4.4.1\n\n## 開発\n\n```bash\ncd extensions/chart-extension\npnpm install\n```\n"
+}

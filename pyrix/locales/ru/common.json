@@ -1,0 +1,421 @@
+{
+  "action": {
+    "authenticating": "Аутентификация...",
+    "cancel": "Отмена",
+    "refresh": "Обновить",
+    "retry": "Повторить"
+  },
+  "ai": {
+    "applied": "Применено",
+    "changedFilesList": {
+      "count": "{count} файлов",
+      "expand": "Развернуть",
+      "minimize": "Свернуть",
+      "title": "Изменённые файлы"
+    },
+    "chatContainer": {
+      "generating": "ИИ генерирует ответ...",
+      "suggest": "Пожалуйста, задавайте вопросы или просьбы по коду."
+    },
+    "context": {
+      "select": "Выбрать файлы"
+    },
+    "fileChangeItem": {
+      "apply": "Применить",
+      "confirm": "Подтвердить",
+      "discard": "Отменить",
+      "noHandler": "Обработчик недоступен"
+    },
+    "fileContextBar": {
+      "remove": "Удалить"
+    },
+    "hints": {
+      "enterSend": "Enter: новая строка / Ctrl+Enter: отправить",
+      "history": "Alt+↑↓: история"
+    },
+    "mode": {
+      "ask": "Задайте вопрос ИИ или проконсультируйтесь по коду...",
+      "edit": "Введите инструкции для редактирования кода..."
+    },
+    "pending": "В ожидании",
+    "promptDebug": {
+      "close": "Закрыть",
+      "copy": "Копировать",
+      "sampleInput": "Пример ввода",
+      "title": "Отладка prompt"
+    },
+    "revert": {
+      "cancel": "Отмена",
+      "confirm": "Подтвердить",
+      "confirmMessage": "Вы уверены, что хотите отменить изменение?",
+      "confirmTitle": "Отменить изменение",
+      "label": "Отменить"
+    },
+    "revertTooltip": "Отменить это изменение",
+    "sendTitle": "Отправить (Ctrl+Enter)",
+    "showPrompt": "Показать подсказку"
+  },
+  "aiReviewTab": {
+    "applyAll": "Применить все",
+    "autoSaveAndApply": "Изменения автоматически сохраняются и отражаются в файле с 'Применить все'.",
+    "discard": "Отменить",
+    "discardAllAndRevert": "Отменить все и восстановить",
+    "editRightDirectly": "Вы можете редактировать прямо в правом редакторе",
+    "notFound": "Данные AI-обзора не найдены",
+    "revert": "Восстановить",
+    "revertApplied": "Отменить примененные",
+    "revertButton": "Отменить",
+    "revertSelectionHint": "Вы также можете частично восстановить, щёлкнув правой кнопкой и выбрав 'Восстановить выбор'."
+  },
+  "auth": {
+    "authFailed": "Аутентификация GitHub не удалась",
+    "authSuccess": "Аутентификация GitHub прошла успешно!",
+    "clickToOpenMenu": "Кликните, чтобы открыть меню",
+    "patDescription": "<0>Нажмите здесь</0>, чтобы создать PAT (требуется область repo)",
+    "patPlaceholder": "ghp_xxxxxxxxxxxx",
+    "patPrompt": "Персональный токен доступа GitHub",
+    "signIn": "Войти",
+    "signOut": "Выйти",
+    "signOutConfirm": "Вы уверены, что хотите выйти из GitHub?"
+  },
+  "binaryTab": {
+    "unsupportedFormat": "Этот формат файла не может быть отображён"
+  },
+  "bottom": {
+    "debugConsole": "Консоль отладки",
+    "escButton": "ESC",
+    "output": "Вывод",
+    "outputPanel": {
+      "all": "Все",
+      "clear": "Очистить",
+      "clearTooltip": "Очистить текущий отображаемый вывод",
+      "contextLabel": "Контекст",
+      "empty": "Нет вывода",
+      "partiallyHidden": "Некоторые элементы скрыты",
+      "typeLabel": "Тип"
+    },
+    "problems": "Проблемы",
+    "terminal": "Терминал",
+    "terminalInitializing": "Инициализация терминала..."
+  },
+  "charCountDisplay": {
+    "clickForDetails": "Кликните для деталей",
+    "close": "Закрыть",
+    "selectedAndTotal": "Выбрано: {selectionCount} символов (без пробелов) / Всего: {charCount} символов (без пробелов)",
+    "total": "Всего: {charCount} символов (без пробелов)"
+  },
+  "chatSpaceList": {
+    "confirmDelete": "Вы уверены, что хотите удалить это пространство?",
+    "create": "Создать новое пространство",
+    "delete": "Удалить",
+    "rename": "Переименовать",
+    "title": "Чат-пространства"
+  },
+  "common": {
+    "cancel": "Отмена",
+    "editable": "Editable",
+    "save": "Сохранить"
+  },
+  "confirmation": {
+    "title": "Подтверждение"
+  },
+  "diff": {
+    "diff": "Различия",
+    "lines": "строк",
+    "original": "Исходный",
+    "suggested": "Предложенный"
+  },
+  "diffTab": {
+    "binaryFile": "Бинарный файл: невозможно отобразить различия",
+    "fileList": "Список файлов",
+    "noDiffFiles": "Нет файлов с различиями"
+  },
+  "editorPlaceholder": {
+    "loadingEditor": "Загрузка редактора...",
+    "loadingFile": "Восстановление содержимого файла...",
+    "selectFile": "Пожалуйста, выберите файл"
+  },
+  "fileTree": {
+    "alert": {
+      "renameFailed": "Ошибка переименования: {error}"
+    },
+    "menu": {
+      "createFile": "Создать файл",
+      "createFolder": "Создать папку",
+      "delete": "Удалить",
+      "download": "Скачать",
+      "importFiles": "Импортировать файлы",
+      "importFolder": "Импортировать папку",
+      "open": "Открыть",
+      "openCodeMirror": "Открыть в CodeMirror",
+      "openPreview": "Открыть предпросмотр",
+      "rename": "Переименовать",
+      "webPreview": "WebPreview"
+    },
+    "prompt": {
+      "newFileName": "Введите имя нового файла:",
+      "newFolderName": "Введите имя новой папки:",
+      "rename": "Введите новое имя:"
+    }
+  },
+  "git": {
+    "apiKeyPlaceholder": "Введите ключ Gemini API",
+    "branchFilter": {
+      "all": "Все",
+      "allMode": "Все ветки",
+      "allModeDesc": "Показать коммиты из всех веток",
+      "auto": "Авто",
+      "autoMode": "Авто (только HEAD)",
+      "autoModeDesc": "Показать коммиты только из текущей ветки",
+      "localBranch": "Локальная ветка",
+      "remoteBranch": "Удалённая ветка",
+      "selectBranches": "Выбрать ветки",
+      "selectBranchesDesc": "Выберите конкретные ветки",
+      "selected": "выбрано",
+      "title": "Фильтр веток",
+      "tooltip": "Фильтр веток"
+    },
+    "changes": "Изменения",
+    "commit": "Коммит",
+    "commitMessagePlaceholder": "Введите сообщение коммита...",
+    "deleted": "Удалено",
+    "discard": "Отменить",
+    "discardAll": "Отменить все",
+    "discardAllAndRevert": "Отменить все изменения и восстановить",
+    "discardChangesMessage": "Вы хотите отменить эти изменения?",
+    "discardChangesTitle": "Отменить изменения?",
+    "errorOccurred": "Произошла ошибка",
+    "generateCommitMessage": "Сгенерировать с помощью ИИ",
+    "history": "История",
+    "infoNotAvailable": "Не удалось получить информацию git",
+    "loadingStatus": "Загрузка статуса git...",
+    "noChanges": "Нет изменений",
+    "noHistory": "Нет истории коммитов",
+    "projectSelect": "Пожалуйста, выберите проект",
+    "stage": "Добавить в индекс",
+    "stageAll": "Добавить всё",
+    "staged": "В индексe",
+    "stageDelete": "Добавить удаление в индекс",
+    "unstage": "Удалить из индекса",
+    "unstageAll": "Удалить всё из индекса",
+    "unstaged": "Не в индексe",
+    "untracked": "Неотслеживаемый",
+    "viewDiffEditable": "Просмотр различий (редактируемо)",
+    "viewDiffReadonly": "Просмотр различий (только чтение)"
+  },
+  "gitHistory": {
+    "allFiles": "Все {count} файлов",
+    "changedFiles": "Изменённые файлы:",
+    "daysAgo": "{days} дней назад",
+    "hoursAgo": "{hours} часов назад",
+    "justNow": "только что",
+    "loadingChanges": "Загрузка информации об изменениях...",
+    "loadingMore": "Загрузка...",
+    "loadMore": "Загрузить ещё",
+    "minutesAgo": "{minutes} минут назад",
+    "noChangedFiles": "Не найдено изменённых файлов",
+    "showAllFilesDiff": "Показать различия для всех файлов этого коммита",
+    "showFileDiff": "Показать различия для этого файла"
+  },
+  "highlightedCode": {
+    "copyCode": "Копировать код"
+  },
+  "leftSidebar": {
+    "createFile": "Создать новый файл",
+    "createFolder": "Создать новую папку"
+  },
+  "markdownPreview": {
+    "downloadSvg": "Скачать SVG",
+    "exportPdf": "Экспорт в PDF",
+    "exportPng": "Экспорт PNG",
+    "generatingMermaid": "Генерация диаграммы Mermaid...",
+    "imageNotFound": "Изображение не найдено: {src}",
+    "loadingImage": "Загрузка изображения...",
+    "mermaidPlaceholder": "Прокрутите, чтобы увидеть диаграмму Mermaid",
+    "preview": "Предпросмотр",
+    "reset": "Сброс",
+    "zoomIn": "Увеличить",
+    "zoomOut": "Уменьшить"
+  },
+  "menu": {
+    "extensions": "Расширения",
+    "files": "Файлы",
+    "git": "Git",
+    "project": "Управление проектом",
+    "run": "Запуск",
+    "search": "Поиск",
+    "settings": "Настройки"
+  },
+  "mergeConflict": {
+    "acceptBoth": "Accept Both",
+    "acceptOurs": "Accept Ours",
+    "acceptTheirs": "Accept Theirs",
+    "completeResolve": "Complete Resolution",
+    "conflictFiles": "Conflict Files",
+    "markAsResolved": "Mark as Resolved",
+    "noConflicts": "No conflicts",
+    "oursVsTheirs": "Ours vs Theirs",
+    "resolved": "Resolved",
+    "resolvedResult": "Resolved Result",
+    "resultView": "Result Only",
+    "threeWayView": "3-Way View",
+    "title": "Merge Conflict Resolution"
+  },
+  "operationWindow": {
+    "closeByEsc": "Закрыть ESC",
+    "footerHelp": "Используйте ↑↓ для выбора, Enter для открытия",
+    "mdPreviewDialogHelp": "Tab/←→ для переключения, Enter для подтверждения, ESC для закрытия",
+    "mdPreviewPrompt": "Открыть в Markdown предпросмотре?",
+    "noFilesFound": "Файлы не найдены",
+    "noItemsFound": "Элементы не найдены",
+    "openInEditor": "Открыть в редакторе",
+    "openInPreview": "Открыть в предпросмотре",
+    "quickOpen": "Быстрое открытие",
+    "searchPlaceholder": "Поиск по имени файла/папки или пути..."
+  },
+  "projectModal": {
+    "cancel": "Отмена",
+    "clone": "Клонировать из GitHub",
+    "cloneFromGitHub": "Клонировать из GitHub",
+    "cloneSuccess": "Клонирование успешно",
+    "create": "Создать",
+    "created": "Создано",
+    "deleteConfirm": "Вы уверены, что хотите удалить этот проект?",
+    "deleteProject": "Удалить проект",
+    "description": "Описание",
+    "descriptionOptional": "Описание (опционально)",
+    "descriptionPlaceholder": "Введите описание проекта...",
+    "editProject": "Редактировать проект",
+    "inputRepoUrl": "URL репозитория",
+    "loading": "Загрузка...",
+    "nameHint": "Используйте буквенно-цифровые символы и дефисы",
+    "nameValidation": "Имя проекта может содержать только буквенно-цифровые символы и дефисы. Пробелы будут заменены на дефисы.",
+    "newProject": "Новый проект",
+    "noProjects": "Проекты не найдены",
+    "open": "Открыть",
+    "projectName": "Имя проекта",
+    "projectNameOptional": "Имя проекта (опционально)",
+    "projectNameOptionalPlaceholder": "Необязательное имя проекта...",
+    "projectNamePlaceholder": "Введите имя проекта...",
+    "repoUrl": "URL репозитория",
+    "repoUrlPlaceholder": "https://github.com/owner/repo",
+    "save": "Сохранить",
+    "title": "Управление проектом",
+    "updated": "Обновлено"
+  },
+  "run": {
+    "clearOutput": "Очистить вывод",
+    "execute": "Выполнить",
+    "executeHint": "Нажмите Ctrl+Enter (Cmd+Enter) для выполнения",
+    "executionStopped": "Выполнение остановлено",
+    "inputPlaceholder": "Введите код Node.js...",
+    "noProject": "Откройте проект для выполнения Node.js кода",
+    "outputHint": "Когда вы выполняете JavaScript/Node.js/Python код, результаты будут отображаться здесь. Node.js и js можно запускать в одном файле.",
+    "runtimeNotReady": "Python runtime не инициализирован",
+    "selectFile": "Выбрать файл",
+    "stop": "Остановить",
+    "title": "Среда выполнения"
+  },
+  "searchPanel": {
+    "caseSensitive": "Чувствительность к регистру",
+    "enterToSearch": "Нажмите Enter для поиска",
+    "noResults": "Результаты не найдены",
+    "realtimeMode": "В реальном времени",
+    "resultCount": "{count} результатов",
+    "searchInFiles": "Поиск в файлах...",
+    "searching": "Поиск...",
+    "useRegex": "Использовать regex",
+    "wholeWord": "Целое слово"
+  },
+  "settingsPanel": {
+    "api": {
+      "apiKeyPlaceholder": "Введите ключ API",
+      "geminiApiKey": "Gemini API Key",
+      "savedToLocalStorage": "Сохранено в LocalStorage",
+      "title": "API"
+    },
+    "editor": {
+      "defaultEditor": "Редактор по умолчанию",
+      "fontSize": "Размер шрифта",
+      "savedToLocalStorage": "Сохранено в LocalStorage",
+      "tabSize": "Размер таба",
+      "title": "Редактор",
+      "wordWrap": "Включить перенос строк"
+    },
+    "export": {
+      "exporting": "Экспорт...",
+      "includeGit": "Включить .git директорию",
+      "title": "Экспорт рабочего пространства",
+      "zipDownload": "Скачать ZIP"
+    },
+    "files": {
+      "excludeHint": "Файлы/папки, скрытые в проводнике",
+      "excludePattern": "Шаблон исключения",
+      "title": "Файлы"
+    },
+    "loading": "Загрузка настроек...",
+    "markdown": {
+      "mathDelimiter": "Разделитель формул",
+      "mathDelimiterHint": "Разделитель для встроенных и блочных формул (например, $ $ или $$ $$)"
+    },
+    "search": {
+      "excludePattern": "Шаблон исключения",
+      "globPatternHint": "Напишите один glob-шаблон на строку",
+      "title": "Поиск",
+      "useIgnoreFiles": "Использовать файлы игнорирования, такие как .gitignore"
+    },
+    "shortcutKeys": "Горячие клавиши",
+    "theme": {
+      "colorCustomize": "Настройка цвета",
+      "colorTheme": "Тема цвета",
+      "title": "Тема"
+    }
+  },
+  "shortcutKeys": {
+    "autoSaved": "Автосохранение",
+    "clickToEdit": "Нажмите для редактирования",
+    "enterNewKey": "Введите новую клавишу",
+    "escToCancel": "Esc для отмены",
+    "noResults": "Подходящие горячие клавиши не найдены",
+    "pressKey": "Нажмите клавишу...",
+    "resetDefaults": "Сбросить настройки",
+    "searchPlaceholder": "Поиск (функция, клавиша)...",
+    "shortcutFor": "горячая клавиша для",
+    "title": "Горячие клавиши"
+  },
+  "tabBar": {
+    "closeTab": "Закрыть вкладку",
+    "moveToPane": "Переместить в панель",
+    "openPreview": "Открыть предпросмотр",
+    "paneMenu": "Меню панели",
+    "removeAllTabs": "Закрыть все вкладки",
+    "removePane": "Удалить панель",
+    "splitHorizontal": "Разделить горизонтально",
+    "splitVertical": "Разделить вертикально",
+    "unsavedChanges": "Несохранённые изменения"
+  },
+  "tabCloseConfirmation": {
+    "cancel": "Отмена",
+    "discardAndClose": "Отменить и закрыть",
+    "discardChangesMessage": "В этой вкладке есть несохранённые изменения. Вы уверены, что хотите её закрыть?",
+    "discardChangesTitle": "Отменить изменения?"
+  },
+  "topBar": {
+    "searchLabel": "Поиск файлов",
+    "searchTitle": "Поиск файлов (Ctrl+P)",
+    "toggleRightPanel": "Переключить правую панель",
+    "toggleTerminal": "Переключить терминал"
+  },
+  "webPreviewTab": {
+    "emptyDirectory": "Папка пуста",
+    "inlineHtmlFailed": "Не удалось встроить HTML-ресурсы",
+    "notFound": "Файл или папка не найдены"
+  },
+  "welcome": {
+    "devServer": {
+      "officialSite": "официальный сайт (GitHub Pages)",
+      "stableVersion": "Для стабильной работы посетите",
+      "warning": "⚠️ Вы просматриваете сервер разработки (Render)."
+    }
+  }
+}

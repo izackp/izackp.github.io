@@ -1,0 +1,61 @@
+{
+  "inputs": {
+    "node_modules/.pnpm/esbuild-wasm@0.27.0/node_modules/esbuild-wasm/lib/browser.js": {
+      "bytes": 124715,
+      "imports": [
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "cjs"
+    },
+    "extensions/react-preview/index.tsx": {
+      "bytes": 19572,
+      "imports": [
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "node_modules/.pnpm/esbuild-wasm@0.27.0/node_modules/esbuild-wasm/lib/browser.js",
+          "kind": "dynamic-import",
+          "original": "esbuild-wasm"
+        },
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    }
+  },
+  "outputs": {
+    "public/extensions/react-preview/index.js": {
+      "imports": [
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "exports": [
+        "activate",
+        "deactivate"
+      ],
+      "entryPoint": "extensions/react-preview/index.tsx",
+      "inputs": {
+        "node_modules/.pnpm/esbuild-wasm@0.27.0/node_modules/esbuild-wasm/lib/browser.js": {
+          "bytesInOutput": 146871
+        },
+        "extensions/react-preview/index.tsx": {
+          "bytesInOutput": 17599
+        }
+      },
+      "bytes": 166040
+    }
+  }
+}

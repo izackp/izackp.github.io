@@ -1,0 +1,31 @@
+{
+  "inputs": {
+    "extensions/python-runtime/index.ts": {
+      "bytes": 18219,
+      "imports": [
+        {
+          "path": "<runtime>",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    }
+  },
+  "outputs": {
+    "public/extensions/python-runtime/index.js": {
+      "imports": [],
+      "exports": [
+        "activate",
+        "deactivate"
+      ],
+      "entryPoint": "extensions/python-runtime/index.ts",
+      "inputs": {
+        "extensions/python-runtime/index.ts": {
+          "bytesInOutput": 14572
+        }
+      },
+      "bytes": 14777
+    }
+  }
+}

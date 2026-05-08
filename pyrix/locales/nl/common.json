@@ -1,0 +1,421 @@
+{
+  "action": {
+    "authenticating": "Authenticatie bezig...",
+    "cancel": "Annuleren",
+    "refresh": "Verversen",
+    "retry": "Opnieuw proberen"
+  },
+  "ai": {
+    "applied": "Toegepast",
+    "changedFilesList": {
+      "count": "{count} bestanden",
+      "expand": "Uitvouwen",
+      "minimize": "Minimaliseren",
+      "title": "Gewijzigde bestanden"
+    },
+    "chatContainer": {
+      "generating": "De AI genereert een antwoord...",
+      "suggest": "Stel vragen of vraag om code-ondersteuning."
+    },
+    "context": {
+      "select": "Bestanden selecteren"
+    },
+    "fileChangeItem": {
+      "apply": "Toepassen",
+      "confirm": "Bevestigen",
+      "discard": "Verwerpen",
+      "noHandler": "Geen handler beschikbaar"
+    },
+    "fileContextBar": {
+      "remove": "Verwijderen"
+    },
+    "hints": {
+      "enterSend": "Enter: nieuwe regel / Ctrl+Enter: verzenden",
+      "history": "Alt+↑↓: geschiedenis"
+    },
+    "mode": {
+      "ask": "Stel vragen aan de AI of vraag advies over code...",
+      "edit": "Voer instructies in om de code te bewerken..."
+    },
+    "pending": "In afwachting",
+    "promptDebug": {
+      "close": "Sluiten",
+      "copy": "Kopiëren",
+      "sampleInput": "Voorbeeldinvoer",
+      "title": "Prompt-debug"
+    },
+    "revert": {
+      "cancel": "Annuleren",
+      "confirm": "Bevestigen",
+      "confirmMessage": "Weet u zeker dat u de wijziging wilt terugdraaien?",
+      "confirmTitle": "Wijziging terugdraaien",
+      "label": "Terugdraaien"
+    },
+    "revertTooltip": "Draai deze wijziging terug",
+    "sendTitle": "Verzenden (Ctrl+Enter)",
+    "showPrompt": "Prompt tonen"
+  },
+  "aiReviewTab": {
+    "applyAll": "Alles toepassen",
+    "autoSaveAndApply": "Wijzigingen worden automatisch opgeslagen en met 'Alles toepassen' in het bestand doorgevoerd.",
+    "discard": "Verwerpen",
+    "discardAllAndRevert": "Alles verwerpen en terugzetten",
+    "editRightDirectly": "Je kunt direct in de rechter editor bewerken",
+    "notFound": "AI reviewgegevens niet gevonden",
+    "revert": "Terugdraaien",
+    "revertApplied": "Toegepaste terugdraaien",
+    "revertButton": "Terugdraaien",
+    "revertSelectionHint": "Je kunt ook gedeeltelijk terugdraaien door rechts te klikken en 'Terugdraai selectie' te kiezen."
+  },
+  "auth": {
+    "authFailed": "GitHub-authenticatie mislukt",
+    "authSuccess": "GitHub-authenticatie geslaagd!",
+    "clickToOpenMenu": "Klik om menu te openen",
+    "patDescription": "<0>Klik hier</0> om een PAT aan te maken (repo-scope vereist)",
+    "patPlaceholder": "ghp_xxxxxxxxxxxx",
+    "patPrompt": "GitHub Personal Access Token",
+    "signIn": "Inloggen",
+    "signOut": "Uitloggen",
+    "signOutConfirm": "Weet je zeker dat je wilt uitloggen bij GitHub?"
+  },
+  "binaryTab": {
+    "unsupportedFormat": "Dit bestandsformaat kan niet worden weergegeven"
+  },
+  "bottom": {
+    "debugConsole": "Debugconsole",
+    "escButton": "ESC",
+    "output": "Uitvoer",
+    "outputPanel": {
+      "all": "Alles",
+      "clear": "Wissen",
+      "clearTooltip": "Wissen van huidige weergave",
+      "contextLabel": "Context",
+      "empty": "Geen output",
+      "partiallyHidden": "Sommige items verborgen",
+      "typeLabel": "Type"
+    },
+    "problems": "Problemen",
+    "terminal": "Terminal",
+    "terminalInitializing": "Terminal initialiseren..."
+  },
+  "charCountDisplay": {
+    "clickForDetails": "Klik voor details",
+    "close": "Sluiten",
+    "selectedAndTotal": "Geselecteerd: {selectionCount} tekens (zonder spaties) / Totaal: {charCount} tekens (zonder spaties)",
+    "total": "Totaal: {charCount} tekens (zonder spaties)"
+  },
+  "chatSpaceList": {
+    "confirmDelete": "Weet je zeker dat je deze ruimte wilt verwijderen?",
+    "create": "Nieuwe ruimte maken",
+    "delete": "Verwijderen",
+    "rename": "Naam wijzigen",
+    "title": "Chatruimtes"
+  },
+  "common": {
+    "cancel": "Annuleren",
+    "editable": "Editable",
+    "save": "Opslaan"
+  },
+  "confirmation": {
+    "title": "Bevestiging"
+  },
+  "diff": {
+    "diff": "Diff",
+    "lines": "regels",
+    "original": "Origineel",
+    "suggested": "Aangeraden"
+  },
+  "diffTab": {
+    "binaryFile": "Binair bestand: diff kan niet worden weergegeven",
+    "fileList": "Bestandslijst",
+    "noDiffFiles": "Geen diff-bestanden"
+  },
+  "editorPlaceholder": {
+    "loadingEditor": "Editor laden...",
+    "loadingFile": "Bestandsinhoud herstellen...",
+    "selectFile": "Selecteer een bestand"
+  },
+  "fileTree": {
+    "alert": {
+      "renameFailed": "Hernoemen mislukt: {error}"
+    },
+    "menu": {
+      "createFile": "Bestand maken",
+      "createFolder": "Map maken",
+      "delete": "Verwijderen",
+      "download": "Downloaden",
+      "importFiles": "Bestanden importeren",
+      "importFolder": "Map importeren",
+      "open": "Openen",
+      "openCodeMirror": "Openen in CodeMirror",
+      "openPreview": "Voorbeeld openen",
+      "rename": "Hernoemen",
+      "webPreview": "WebPreview"
+    },
+    "prompt": {
+      "newFileName": "Voer nieuwe bestandsnaam in:",
+      "newFolderName": "Voer nieuwe mapnaam in:",
+      "rename": "Voer nieuwe naam in:"
+    }
+  },
+  "git": {
+    "apiKeyPlaceholder": "Voer Gemini API-sleutel in",
+    "branchFilter": {
+      "all": "Alles",
+      "allMode": "Alle branches",
+      "allModeDesc": "Toon commits van alle branches",
+      "auto": "Automatisch",
+      "autoMode": "Automatisch (alleen HEAD)",
+      "autoModeDesc": "Toon commits alleen van de huidige branch",
+      "localBranch": "Lokale branch",
+      "remoteBranch": "Remote branch",
+      "selectBranches": "Branches selecteren",
+      "selectBranchesDesc": "Kies specifieke branches",
+      "selected": "geselecteerd",
+      "title": "Branch-filter",
+      "tooltip": "Branch-filter"
+    },
+    "changes": "Wijzigingen",
+    "commit": "Commit",
+    "commitMessagePlaceholder": "Voer commitbericht in...",
+    "deleted": "Verwijderd",
+    "discard": "Verwerpen",
+    "discardAll": "Alles verwijderen",
+    "discardAllAndRevert": "Alle wijzigingen verwijderen en terugzetten",
+    "discardChangesMessage": "Wilt u deze wijzigingen verwerpen?:",
+    "discardChangesTitle": "Wijzigingen verwerpen?",
+    "errorOccurred": "Er is een fout opgetreden",
+    "generateCommitMessage": "Genereer met AI",
+    "history": "Geschiedenis",
+    "infoNotAvailable": "Kan git-informatie niet ophalen",
+    "loadingStatus": "Git-status laden...",
+    "noChanges": "Geen wijzigingen",
+    "noHistory": "Geen commit-geschiedenis",
+    "projectSelect": "Selecteer een project",
+    "stage": "Stage",
+    "stageAll": "Alles stage'en",
+    "staged": "Gestaged",
+    "stageDelete": "Stage verwijdering",
+    "unstage": "Unstage",
+    "unstageAll": "Alles unstage'en",
+    "unstaged": "Niet gestaged",
+    "untracked": "Niet gevolgd",
+    "viewDiffEditable": "Bekijk diff (bewerkbaar)",
+    "viewDiffReadonly": "Bekijk diff (alleen-lezen)"
+  },
+  "gitHistory": {
+    "allFiles": "Alle {count} bestanden",
+    "changedFiles": "Gewijzigde bestanden:",
+    "daysAgo": "{days} dagen geleden",
+    "hoursAgo": "{hours} uren geleden",
+    "justNow": "zojuist",
+    "loadingChanges": "Wijzigingsinformatie laden...",
+    "loadingMore": "Laden...",
+    "loadMore": "Meer laden",
+    "minutesAgo": "{minutes} minuten geleden",
+    "noChangedFiles": "Geen gewijzigde bestanden gevonden",
+    "showAllFilesDiff": "Toon alle bestandsdiffs voor deze commit",
+    "showFileDiff": "Toon diff voor dit bestand"
+  },
+  "highlightedCode": {
+    "copyCode": "Code kopiëren"
+  },
+  "leftSidebar": {
+    "createFile": "Nieuw bestand maken",
+    "createFolder": "Nieuwe map maken"
+  },
+  "markdownPreview": {
+    "downloadSvg": "SVG downloaden",
+    "exportPdf": "PDF exporteren",
+    "exportPng": "PNG exporteren",
+    "generatingMermaid": "Mermaid-diagram genereren...",
+    "imageNotFound": "Afbeelding niet gevonden: {src}",
+    "loadingImage": "Afbeelding laden...",
+    "mermaidPlaceholder": "Scroll om het Mermaid-diagram te bekijken",
+    "preview": "Voorbeeld",
+    "reset": "Resetten",
+    "zoomIn": "Inzoomen",
+    "zoomOut": "Uitzoomen"
+  },
+  "menu": {
+    "extensions": "Extensies",
+    "files": "Bestanden",
+    "git": "Git",
+    "project": "Projectbeheer",
+    "run": "Uitvoeren",
+    "search": "Zoeken",
+    "settings": "Instellingen"
+  },
+  "mergeConflict": {
+    "acceptBoth": "Accept Both",
+    "acceptOurs": "Accept Ours",
+    "acceptTheirs": "Accept Theirs",
+    "completeResolve": "Complete Resolution",
+    "conflictFiles": "Conflict Files",
+    "markAsResolved": "Mark as Resolved",
+    "noConflicts": "No conflicts",
+    "oursVsTheirs": "Ours vs Theirs",
+    "resolved": "Resolved",
+    "resolvedResult": "Resolved Result",
+    "resultView": "Result Only",
+    "threeWayView": "3-Way View",
+    "title": "Merge Conflict Resolution"
+  },
+  "operationWindow": {
+    "closeByEsc": "Sluiten met ESC",
+    "footerHelp": "Gebruik ↑↓ om te selecteren, Enter om te openen",
+    "mdPreviewDialogHelp": "Tab/←→ om te wisselen, Enter om te bevestigen, ESC om te sluiten",
+    "mdPreviewPrompt": "Openen in Markdown-voorbeeld?",
+    "noFilesFound": "Geen bestanden gevonden",
+    "noItemsFound": "Geen items gevonden",
+    "openInEditor": "Openen in editor",
+    "openInPreview": "Openen in voorbeeld",
+    "quickOpen": "Snel openen",
+    "searchPlaceholder": "Zoeken op bestands-/mapnaam of pad..."
+  },
+  "projectModal": {
+    "cancel": "Annuleren",
+    "clone": "Klonen van GitHub",
+    "cloneFromGitHub": "Klonen van GitHub",
+    "cloneSuccess": "Klonen geslaagd",
+    "create": "Maken",
+    "created": "Aangemaakt",
+    "deleteConfirm": "Weet je zeker dat je dit project wilt verwijderen?",
+    "deleteProject": "Project verwijderen",
+    "description": "Beschrijving",
+    "descriptionOptional": "Beschrijving (optioneel)",
+    "descriptionPlaceholder": "Voer projectbeschrijving in...",
+    "editProject": "Project bewerken",
+    "inputRepoUrl": "Repository-URL",
+    "loading": "Laden...",
+    "nameHint": "Gebruik alfanumerieke tekens en koppeltekens",
+    "nameValidation": "Projectnaam mag alleen alfanumerieke tekens en koppeltekens bevatten. Geen Japans. Spaties worden vervangen door koppeltekens.",
+    "newProject": "Nieuw project",
+    "noProjects": "Geen projecten gevonden",
+    "open": "Openen",
+    "projectName": "Projectnaam",
+    "projectNameOptional": "Projectnaam (optioneel)",
+    "projectNameOptionalPlaceholder": "Optionele projectnaam...",
+    "projectNamePlaceholder": "Voer projectnaam in...",
+    "repoUrl": "Repository-URL",
+    "repoUrlPlaceholder": "https://github.com/owner/repo",
+    "save": "Opslaan",
+    "title": "Projectbeheer",
+    "updated": "Bijgewerkt"
+  },
+  "run": {
+    "clearOutput": "Output wissen",
+    "execute": "Uitvoeren",
+    "executeHint": "Druk op Ctrl+Enter (Cmd+Enter) om uit te voeren",
+    "executionStopped": "Uitvoering gestopt",
+    "inputPlaceholder": "Voer Node.js code in...",
+    "noProject": "Open een project om Node.js-code uit te voeren",
+    "outputHint": "Wanneer je JavaScript/Node.js/Python-code uitvoert, worden de resultaten hier weergegeven. Node.js en js kunnen in hetzelfde bestand worden uitgevoerd.",
+    "runtimeNotReady": "Python-runtime is niet geïnitialiseerd",
+    "selectFile": "Bestand selecteren",
+    "stop": "Stoppen",
+    "title": "Uitvoeringsomgeving"
+  },
+  "searchPanel": {
+    "caseSensitive": "Hoofdlettergevoelig",
+    "enterToSearch": "Druk op Enter om te zoeken",
+    "noResults": "Geen resultaten gevonden",
+    "realtimeMode": "Realtime",
+    "resultCount": "{count} resultaten",
+    "searchInFiles": "Zoeken in bestanden...",
+    "searching": "Bezig met zoeken...",
+    "useRegex": "Gebruik regex",
+    "wholeWord": "Hele woord"
+  },
+  "settingsPanel": {
+    "api": {
+      "apiKeyPlaceholder": "Voer API-sleutel in",
+      "geminiApiKey": "Gemini API-sleutel",
+      "savedToLocalStorage": "Opgeslagen in LocalStorage",
+      "title": "API"
+    },
+    "editor": {
+      "defaultEditor": "Standaard editor",
+      "fontSize": "Lettergrootte",
+      "savedToLocalStorage": "Opgeslagen in LocalStorage",
+      "tabSize": "Tabgrootte",
+      "title": "Editor",
+      "wordWrap": "Regelterugloop inschakelen"
+    },
+    "export": {
+      "exporting": "Exporteren...",
+      "includeGit": "Inclusief .git-map",
+      "title": "Workspace-export",
+      "zipDownload": "ZIP downloaden"
+    },
+    "files": {
+      "excludeHint": "Bestanden/mappen verborgen in explorer",
+      "excludePattern": "Uitsluitingspatroon",
+      "title": "Bestanden"
+    },
+    "loading": "Instellingen laden...",
+    "markdown": {
+      "mathDelimiter": "Scheidingsteken voor wiskunde",
+      "mathDelimiterHint": "Scheidingsteken gebruikt voor inline en blokwiskunde (bijv. $ $ of $$ $$)"
+    },
+    "search": {
+      "excludePattern": "Uitsluitingspatroon",
+      "globPatternHint": "Schrijf één glob-patroon per regel",
+      "title": "Zoeken",
+      "useIgnoreFiles": "Gebruik negeerbestanden zoals .gitignore"
+    },
+    "shortcutKeys": "Sneltoetsen",
+    "theme": {
+      "colorCustomize": "Kleur aanpassen",
+      "colorTheme": "Kleurthema",
+      "title": "Thema"
+    }
+  },
+  "shortcutKeys": {
+    "autoSaved": "Automatisch opgeslagen",
+    "clickToEdit": "Klik om te bewerken",
+    "enterNewKey": "Voer nieuwe toets in",
+    "escToCancel": "Esc om te annuleren",
+    "noResults": "Geen overeenkomende sneltoetsen gevonden",
+    "pressKey": "Druk op een toets...",
+    "resetDefaults": "Standaardinstellingen herstellen",
+    "searchPlaceholder": "Zoeken (functie, toets)...",
+    "shortcutFor": "sneltoets voor",
+    "title": "Sneltoetsen"
+  },
+  "tabBar": {
+    "closeTab": "Tab sluiten",
+    "moveToPane": "Verplaats naar pane",
+    "openPreview": "Voorbeeld openen",
+    "paneMenu": "Pane-menu",
+    "removeAllTabs": "Alle tabs verwijderen",
+    "removePane": "Pane verwijderen",
+    "splitHorizontal": "Horizontaal splitsen",
+    "splitVertical": "Verticaal splitsen",
+    "unsavedChanges": "Niet-opgeslagen wijzigingen"
+  },
+  "tabCloseConfirmation": {
+    "cancel": "Annuleren",
+    "discardAndClose": "Verwerpen en sluiten",
+    "discardChangesMessage": "Er zijn niet-opgeslagen wijzigingen in dit tabblad. Weet je zeker dat je het wilt sluiten?",
+    "discardChangesTitle": "Wijzigingen verwerpen?"
+  },
+  "topBar": {
+    "searchLabel": "Bestand zoeken",
+    "searchTitle": "Bestand zoeken (Ctrl+P)",
+    "toggleRightPanel": "Rechterpaneel in-/uitschakelen",
+    "toggleTerminal": "Terminal in-/uitschakelen"
+  },
+  "webPreviewTab": {
+    "emptyDirectory": "Map is leeg",
+    "inlineHtmlFailed": "Inline HTML-assets mislukt",
+    "notFound": "Bestand of map niet gevonden"
+  },
+  "welcome": {
+    "devServer": {
+      "officialSite": "de officiële site (GitHub Pages)",
+      "stableVersion": "Voor een stabiele ervaring, bezoek",
+      "warning": "⚠️ U bekijkt de ontwikkelserver (Render)."
+    }
+  }
+}
